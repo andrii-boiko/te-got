@@ -4,7 +4,10 @@
       "Bash(npm init:*)",
       "Bash(npm install:*)",
       "Bash(npm run build:*)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(git commit:*)",
+      "Bash(npm run sitemap:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
