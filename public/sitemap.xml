@@ -1,1012 +1,957 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <!-- Homepage in both languages -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-domain.com/ua/</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
   </url>
-  
-  <!-- Card pages for both languages -->
   <url>
-    <loc>https://your-domain.com/ua/banished-to-the-watch</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/banished-to-the-watch" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/banished-to-the-watch" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/banished-to-the-watch" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/card/banished-to-the-watch</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/banished-to-the-watch</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/banished-to-the-watch" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/banished-to-the-watch" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/banished-to-the-watch" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/spoils-of-war</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/spoils-of-war</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/spoils-of-war" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/spoils-of-war" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/spoils-of-war" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/unjust-trial</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/spoils-of-war</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/spoils-of-war" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/spoils-of-war" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/spoils-of-war" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/the-kings-roads</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/unjust-trial</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/unjust-trial" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/unjust-trial" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/unjust-trial" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/honor-from-your-allies</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/unjust-trial</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/unjust-trial" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/unjust-trial" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/unjust-trial" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/forced-march</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/the-kings-roads</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/the-kings-roads" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/the-kings-roads" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/the-kings-roads" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/enlist-the-faceless-men</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/the-kings-roads</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/the-kings-roads" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/the-kings-roads" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/the-kings-roads" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/vendetta</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/honor-from-your-allies</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/honor-from-your-allies" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/honor-from-your-allies" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/honor-from-your-allies" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/oberyn-martell</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/honor-from-your-allies</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/honor-from-your-allies" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/honor-from-your-allies" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/honor-from-your-allies" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/drain-the-coffers</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/forced-march</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/forced-march" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/forced-march" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/forced-march" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/crushing-siege</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/forced-march</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/forced-march" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/forced-march" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/forced-march" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/press-into-battle</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/enlist-the-faceless-men</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/enlist-the-faceless-men" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/enlist-the-faceless-men" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/enlist-the-faceless-men" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/a-loyal-squire</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/enlist-the-faceless-men</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/enlist-the-faceless-men" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/enlist-the-faceless-men" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/enlist-the-faceless-men" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/little-fingers-influence</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/vendetta</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/vendetta" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/vendetta" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/vendetta" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/olenna-tyrell</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/vendetta</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/vendetta" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/vendetta" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/vendetta" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/safe-passage</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/oberyn-martell</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/oberyn-martell" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/oberyn-martell" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/oberyn-martell" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/a-noble-sacrifice</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/oberyn-martell</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/oberyn-martell" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/oberyn-martell" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/oberyn-martell" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/critical-battle</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/drain-the-coffers</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/drain-the-coffers" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/drain-the-coffers" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/drain-the-coffers" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/poisoning</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/drain-the-coffers</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/drain-the-coffers" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/drain-the-coffers" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/drain-the-coffers" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/inspire-your-army</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/crushing-siege</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/crushing-siege" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/crushing-siege" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/crushing-siege" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/lone-wolf</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/crushing-siege</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/crushing-siege" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/crushing-siege" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/crushing-siege" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/the-element-of-surprise</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/press-into-battle</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/press-into-battle" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/press-into-battle" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/press-into-battle" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/instruction-in-swords</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/press-into-battle</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/press-into-battle" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/press-into-battle" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/press-into-battle" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/assault-by-sea</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/a-loyal-squire</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-loyal-squire" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-loyal-squire" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-loyal-squire" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/a-timely-alliance</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/a-loyal-squire</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-loyal-squire" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-loyal-squire" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-loyal-squire" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/faith-militant-returns</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/little-fingers-influence</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/little-fingers-influence" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/little-fingers-influence" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/little-fingers-influence" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/red-wedding</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/little-fingers-influence</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/little-fingers-influence" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/little-fingers-influence" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/little-fingers-influence" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/muster-your-troops</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/olenna-tyrell</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/olenna-tyrell" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/olenna-tyrell" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/olenna-tyrell" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/tariffs-from-your-subjects</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/olenna-tyrell</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/olenna-tyrell" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/olenna-tyrell" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/olenna-tyrell" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/complex-negotiations</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/safe-passage</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/safe-passage" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/safe-passage" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/safe-passage" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/kingslayer</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/safe-passage</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/safe-passage" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/safe-passage" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/safe-passage" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/a-betrayers-gift</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/a-noble-sacrifice</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-noble-sacrifice" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-noble-sacrifice" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-noble-sacrifice" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/raid-the-gold-lines</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/a-noble-sacrifice</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-noble-sacrifice" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-noble-sacrifice" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-noble-sacrifice" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/captured-at-sea</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/critical-battle</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/critical-battle" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/critical-battle" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/critical-battle" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/attempted-coup</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/critical-battle</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/critical-battle" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/critical-battle" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/critical-battle" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/cache-of-wildfire</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/poisoning</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/poisoning" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/poisoning" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/poisoning" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/trial-by-combat</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/poisoning</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/poisoning" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/poisoning" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/poisoning" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/vision-of-the-three-eyed-raven</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/inspire-your-army</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/inspire-your-army" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/inspire-your-army" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/inspire-your-army" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/jaime-lannister</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/inspire-your-army</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/inspire-your-army" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/inspire-your-army" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/inspire-your-army" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/a-secret-heir</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/lone-wolf</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/lone-wolf" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/lone-wolf" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/lone-wolf" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/hire-a-master-of-whispers</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/lone-wolf</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/lone-wolf" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/lone-wolf" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/lone-wolf" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/maester-training</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/the-element-of-surprise</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/the-element-of-surprise" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/the-element-of-surprise" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/the-element-of-surprise" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/master-of-the-seas</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/the-element-of-surprise</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/the-element-of-surprise" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/the-element-of-surprise" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/the-element-of-surprise" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/a-debt-to-the-iron-bank</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/instruction-in-swords</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/instruction-in-swords" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/instruction-in-swords" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/instruction-in-swords" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/euron-greyjoy</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/instruction-in-swords</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/instruction-in-swords" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/instruction-in-swords" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/instruction-in-swords" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/robert-baratheon</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/assault-by-sea</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/assault-by-sea" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/assault-by-sea" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/assault-by-sea" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/hire-sellswords</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/assault-by-sea</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/assault-by-sea" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/assault-by-sea" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/assault-by-sea" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/hoster-tully</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/a-timely-alliance</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-timely-alliance" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-timely-alliance" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-timely-alliance" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/eddard-stark</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/a-timely-alliance</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-timely-alliance" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-timely-alliance" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-timely-alliance" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/tribute-to-the-lord-of-light</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/faith-militant-returns</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/faith-militant-returns" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/faith-militant-returns" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/faith-militant-returns" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/dealmaking</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/faith-militant-returns</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/faith-militant-returns" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/faith-militant-returns" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/faith-militant-returns" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/card/uniting-the-bloodlines</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/red-wedding</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/red-wedding" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/red-wedding" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/red-wedding" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/banished-to-the-watch</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/red-wedding</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/red-wedding" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/red-wedding" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/red-wedding" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/banished-to-the-watch</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/muster-your-troops</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/muster-your-troops" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/muster-your-troops" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/muster-your-troops" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/spoils-of-war</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/muster-your-troops</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/muster-your-troops" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/muster-your-troops" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/muster-your-troops" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/spoils-of-war</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/tariffs-from-your-subjects</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/tariffs-from-your-subjects" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/tariffs-from-your-subjects" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/tariffs-from-your-subjects" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/unjust-trial</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/tariffs-from-your-subjects</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/tariffs-from-your-subjects" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/tariffs-from-your-subjects" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/tariffs-from-your-subjects" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/unjust-trial</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/complex-negotiations</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/complex-negotiations" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/complex-negotiations" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/complex-negotiations" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/the-kings-roads</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/complex-negotiations</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/complex-negotiations" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/complex-negotiations" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/complex-negotiations" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/the-kings-roads</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/kingslayer</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/kingslayer" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/kingslayer" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/kingslayer" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/honor-from-your-allies</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/kingslayer</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/kingslayer" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/kingslayer" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/kingslayer" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/honor-from-your-allies</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/a-betrayers-gift</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-betrayers-gift" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-betrayers-gift" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-betrayers-gift" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/forced-march</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/a-betrayers-gift</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-betrayers-gift" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-betrayers-gift" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-betrayers-gift" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/forced-march</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/raid-the-gold-lines</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/raid-the-gold-lines" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/raid-the-gold-lines" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/raid-the-gold-lines" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/enlist-the-faceless-men</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/raid-the-gold-lines</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/raid-the-gold-lines" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/raid-the-gold-lines" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/raid-the-gold-lines" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/enlist-the-faceless-men</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/captured-at-sea</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/captured-at-sea" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/captured-at-sea" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/captured-at-sea" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/vendetta</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/captured-at-sea</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/captured-at-sea" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/captured-at-sea" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/captured-at-sea" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/vendetta</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/attempted-coup</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/attempted-coup" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/attempted-coup" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/attempted-coup" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/oberyn-martell</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/attempted-coup</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/attempted-coup" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/attempted-coup" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/attempted-coup" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/oberyn-martell</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/cache-of-wildfire</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/cache-of-wildfire" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/cache-of-wildfire" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/cache-of-wildfire" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/drain-the-coffers</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/cache-of-wildfire</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/cache-of-wildfire" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/cache-of-wildfire" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/cache-of-wildfire" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/drain-the-coffers</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/trial-by-combat</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/trial-by-combat" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/trial-by-combat" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/trial-by-combat" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/crushing-siege</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/trial-by-combat</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/trial-by-combat" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/trial-by-combat" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/trial-by-combat" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/crushing-siege</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/vision-of-the-three-eyed-raven</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/vision-of-the-three-eyed-raven" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/vision-of-the-three-eyed-raven" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/vision-of-the-three-eyed-raven" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/press-into-battle</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/vision-of-the-three-eyed-raven</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/vision-of-the-three-eyed-raven" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/vision-of-the-three-eyed-raven" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/vision-of-the-three-eyed-raven" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/press-into-battle</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/jaime-lannister</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/jaime-lannister" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/jaime-lannister" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/jaime-lannister" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/a-loyal-squire</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/jaime-lannister</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/jaime-lannister" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/jaime-lannister" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/jaime-lannister" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/a-loyal-squire</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/a-secret-heir</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-secret-heir" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-secret-heir" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-secret-heir" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/little-fingers-influence</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/a-secret-heir</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-secret-heir" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-secret-heir" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-secret-heir" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/little-fingers-influence</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/hire-a-master-of-whispers</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/hire-a-master-of-whispers" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/hire-a-master-of-whispers" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/hire-a-master-of-whispers" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/olenna-tyrell</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/hire-a-master-of-whispers</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/hire-a-master-of-whispers" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/hire-a-master-of-whispers" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/hire-a-master-of-whispers" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/olenna-tyrell</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/maester-training</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/maester-training" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/maester-training" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/maester-training" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/safe-passage</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/maester-training</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/maester-training" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/maester-training" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/maester-training" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/safe-passage</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/master-of-the-seas</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/master-of-the-seas" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/master-of-the-seas" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/master-of-the-seas" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/a-noble-sacrifice</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/master-of-the-seas</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/master-of-the-seas" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/master-of-the-seas" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/master-of-the-seas" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/a-noble-sacrifice</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/a-debt-to-the-iron-bank</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-debt-to-the-iron-bank" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-debt-to-the-iron-bank" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-debt-to-the-iron-bank" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/critical-battle</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/a-debt-to-the-iron-bank</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/a-debt-to-the-iron-bank" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/a-debt-to-the-iron-bank" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/a-debt-to-the-iron-bank" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/critical-battle</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/euron-greyjoy</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/euron-greyjoy" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/euron-greyjoy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/euron-greyjoy" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/poisoning</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/euron-greyjoy</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/euron-greyjoy" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/euron-greyjoy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/euron-greyjoy" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/poisoning</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/robert-baratheon</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/robert-baratheon" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/robert-baratheon" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/robert-baratheon" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/inspire-your-army</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/robert-baratheon</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/robert-baratheon" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/robert-baratheon" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/robert-baratheon" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/inspire-your-army</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/hire-sellswords</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/hire-sellswords" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/hire-sellswords" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/hire-sellswords" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/lone-wolf</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/hire-sellswords</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/hire-sellswords" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/hire-sellswords" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/hire-sellswords" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/lone-wolf</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/hoster-tully</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/hoster-tully" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/hoster-tully" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/hoster-tully" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/the-element-of-surprise</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/hoster-tully</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/hoster-tully" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/hoster-tully" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/hoster-tully" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/the-element-of-surprise</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/eddard-stark</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/eddard-stark" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/eddard-stark" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/eddard-stark" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/instruction-in-swords</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/eddard-stark</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/eddard-stark" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/eddard-stark" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/eddard-stark" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/instruction-in-swords</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/tribute-to-the-lord-of-light</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/tribute-to-the-lord-of-light" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/tribute-to-the-lord-of-light" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/tribute-to-the-lord-of-light" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/assault-by-sea</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/tribute-to-the-lord-of-light</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/tribute-to-the-lord-of-light" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/tribute-to-the-lord-of-light" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/tribute-to-the-lord-of-light" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/assault-by-sea</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/dealmaking</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/dealmaking" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/dealmaking" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/dealmaking" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/a-timely-alliance</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/dealmaking</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/dealmaking" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/dealmaking" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/dealmaking" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/a-timely-alliance</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>https://your-domain.com/ua/uniting-the-bloodlines</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/uniting-the-bloodlines" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/uniting-the-bloodlines" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/uniting-the-bloodlines" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/en/faith-militant-returns</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/en/uniting-the-bloodlines</loc>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://your-domain.com/ua/uniting-the-bloodlines" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://your-domain.com/en/uniting-the-bloodlines" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://your-domain.com/ua/uniting-the-bloodlines" />
-    <lastmod>2025-08-29T00:00:00.000Z</lastmod>
+    <loc>https://andriiboiko.github.io/tegot/ua/faith-militant-returns</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/red-wedding</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/red-wedding</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/muster-your-troops</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/muster-your-troops</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/tariffs-from-your-subjects</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/tariffs-from-your-subjects</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/complex-negotiations</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/complex-negotiations</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/kingslayer</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/kingslayer</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/a-betrayers-gift</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/a-betrayers-gift</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/raid-the-gold-lines</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/raid-the-gold-lines</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/captured-at-sea</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/captured-at-sea</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/attempted-coup</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/attempted-coup</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/cache-of-wildfire</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/cache-of-wildfire</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/trial-by-combat</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/trial-by-combat</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/vision-of-the-three-eyed-raven</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/vision-of-the-three-eyed-raven</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/jaime-lannister</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/jaime-lannister</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/a-secret-heir</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/a-secret-heir</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/hire-a-master-of-whispers</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/hire-a-master-of-whispers</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/maester-training</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/maester-training</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/master-of-the-seas</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/master-of-the-seas</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/a-debt-to-the-iron-bank</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/a-debt-to-the-iron-bank</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/euron-greyjoy</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/euron-greyjoy</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/robert-baratheon</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/robert-baratheon</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/hire-sellswords</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/hire-sellswords</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/hoster-tully</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/hoster-tully</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/eddard-stark</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/eddard-stark</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/tribute-to-the-lord-of-light</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/tribute-to-the-lord-of-light</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/dealmaking</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/dealmaking</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/en/uniting-the-bloodlines</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://andriiboiko.github.io/tegot/ua/uniting-the-bloodlines</loc>
+    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
-  
 </urlset>

@@ -85,6 +85,24 @@ To add more cards with complete OCR data, update `/data/cards.ts`:
 
 All cards have been processed with accurate English text extraction and official Ukrainian translations from the game rules.
 
+## GitHub Pages Deployment
+
+This project is configured for automatic deployment to GitHub Pages:
+
+1. **Push to Main**: Automatic deployment triggered on push to `main` branch
+2. **GitHub Actions**: Uses `.github/workflows/pages.yml` workflow
+3. **Static Export**: Builds to `out/` directory with static files
+4. **Enable Pages**: Go to Settings > Pages > Source: GitHub Actions
+
+### Manual Deployment
+
+```bash
+# Build and export static files
+npm run build
+
+# The `out/` directory contains all static files ready for deployment
+```
+
 ## Development Notes
 
 - Images are copied to `public/images/plot/` for Next.js static serving
