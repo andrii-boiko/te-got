@@ -16,7 +16,7 @@ function extractCardSlugs() {
 }
 
 // Base URL for your site (update this to your GitHub Pages URL)
-const BASE_URL = process.env.SITE_URL || 'https://andriiboiko.github.io/tegot';
+const BASE_URL = process.env.SITE_URL || 'https://andriiboiko.github.io/te-got';
 
 // Generate sitemap XML
 function generateSitemap() {
@@ -46,15 +46,6 @@ function generateSitemap() {
 
   // Dynamic card pages
   const cardPages = [];
-  
-  // Add individual card pages (/card/[slug])
-  cardSlugs.forEach(slug => {
-    cardPages.push({
-      url: `/card/${slug}`,
-      changefreq: 'monthly',
-      priority: '0.8'
-    });
-  });
 
   // Add localized card pages
   cardSlugs.forEach(slug => {

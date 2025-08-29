@@ -40,7 +40,7 @@ export default function Home({ locale }: HomeProps) {
     );
   }, [searchQuery]);
 
-  const baseUrl = process.env.NODE_ENV === 'production' ? 'https://your-domain.com' : 'http://localhost:3000';
+  const baseUrl = process.env.NODE_ENV === 'production' ? 'https://andrii-boiko.github.io/te-got' : 'http://localhost:3000';
   const canonicalUrl = `${baseUrl}/${locale}/`;
   const alternateUrl = `${baseUrl}/${otherLang}/`;
 
