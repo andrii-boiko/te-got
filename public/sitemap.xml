@@ -1,956 +1,644 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://andriiboiko.github.io/tegot</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/card/banished-to-the-watch</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/banished-to-the-watch</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/spoils-of-war</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/unjust-trial</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/the-kings-roads</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/honor-from-your-allies</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/forced-march</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/enlist-the-faceless-men</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/vendetta</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/oberyn-martell</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/drain-the-coffers</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/crushing-siege</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/press-into-battle</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/a-loyal-squire</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/little-fingers-influence</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/olenna-tyrell</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/safe-passage</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/a-noble-sacrifice</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/critical-battle</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/poisoning</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/inspire-your-army</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/lone-wolf</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/the-element-of-surprise</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/instruction-in-swords</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/assault-by-sea</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/a-timely-alliance</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/faith-militant-returns</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/red-wedding</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/muster-your-troops</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/tariffs-from-your-subjects</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/complex-negotiations</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/kingslayer</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/a-betrayers-gift</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/raid-the-gold-lines</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/captured-at-sea</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/attempted-coup</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/cache-of-wildfire</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/trial-by-combat</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/vision-of-the-three-eyed-raven</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/jaime-lannister</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/a-secret-heir</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/hire-a-master-of-whispers</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/maester-training</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/master-of-the-seas</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/a-debt-to-the-iron-bank</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/euron-greyjoy</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/robert-baratheon</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/hire-sellswords</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/hoster-tully</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/eddard-stark</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/tribute-to-the-lord-of-light</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/dealmaking</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/card/uniting-the-bloodlines</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://andriiboiko.github.io/tegot/en/banished-to-the-watch</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/banished-to-the-watch</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/banished-to-the-watch</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/spoils-of-war</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/spoils-of-war</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/spoils-of-war</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/spoils-of-war</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/unjust-trial</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/unjust-trial</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/unjust-trial</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/unjust-trial</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/the-kings-roads</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/the-kings-roads</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/the-kings-roads</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/the-kings-roads</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/honor-from-your-allies</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/honor-from-your-allies</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/honor-from-your-allies</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/honor-from-your-allies</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/forced-march</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/forced-march</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/forced-march</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/forced-march</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/enlist-the-faceless-men</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/enlist-the-faceless-men</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/enlist-the-faceless-men</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/enlist-the-faceless-men</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/vendetta</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/vendetta</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/vendetta</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/vendetta</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/oberyn-martell</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/oberyn-martell</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/oberyn-martell</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/oberyn-martell</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/drain-the-coffers</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/drain-the-coffers</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/drain-the-coffers</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/drain-the-coffers</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/crushing-siege</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/crushing-siege</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/crushing-siege</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/crushing-siege</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/press-into-battle</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/press-into-battle</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/press-into-battle</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/press-into-battle</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/a-loyal-squire</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/a-loyal-squire</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/a-loyal-squire</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/a-loyal-squire</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/little-fingers-influence</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/little-fingers-influence</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/little-fingers-influence</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/little-fingers-influence</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/olenna-tyrell</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/olenna-tyrell</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/olenna-tyrell</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/olenna-tyrell</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/safe-passage</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/safe-passage</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/safe-passage</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/safe-passage</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/a-noble-sacrifice</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/a-noble-sacrifice</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/a-noble-sacrifice</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/a-noble-sacrifice</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/critical-battle</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/critical-battle</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/critical-battle</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/critical-battle</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/poisoning</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/poisoning</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/poisoning</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/poisoning</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/inspire-your-army</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/inspire-your-army</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/inspire-your-army</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/inspire-your-army</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/lone-wolf</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/lone-wolf</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/lone-wolf</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/lone-wolf</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/the-element-of-surprise</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/the-element-of-surprise</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/the-element-of-surprise</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/the-element-of-surprise</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/instruction-in-swords</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/instruction-in-swords</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/instruction-in-swords</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/instruction-in-swords</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/assault-by-sea</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/assault-by-sea</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/assault-by-sea</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/assault-by-sea</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/a-timely-alliance</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/a-timely-alliance</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/a-timely-alliance</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/a-timely-alliance</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/faith-militant-returns</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/faith-militant-returns</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/faith-militant-returns</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/faith-militant-returns</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/red-wedding</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/red-wedding</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/red-wedding</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/red-wedding</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/muster-your-troops</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/muster-your-troops</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/muster-your-troops</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/muster-your-troops</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/tariffs-from-your-subjects</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/tariffs-from-your-subjects</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/tariffs-from-your-subjects</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/tariffs-from-your-subjects</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/complex-negotiations</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/complex-negotiations</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/complex-negotiations</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/complex-negotiations</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/kingslayer</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/kingslayer</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/kingslayer</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/kingslayer</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/a-betrayers-gift</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/a-betrayers-gift</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/a-betrayers-gift</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/a-betrayers-gift</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/raid-the-gold-lines</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/raid-the-gold-lines</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/raid-the-gold-lines</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/raid-the-gold-lines</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/captured-at-sea</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/captured-at-sea</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/captured-at-sea</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/captured-at-sea</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/attempted-coup</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/attempted-coup</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/attempted-coup</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/attempted-coup</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/cache-of-wildfire</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/cache-of-wildfire</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/cache-of-wildfire</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/cache-of-wildfire</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/trial-by-combat</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/trial-by-combat</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/trial-by-combat</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/trial-by-combat</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/vision-of-the-three-eyed-raven</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/vision-of-the-three-eyed-raven</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/vision-of-the-three-eyed-raven</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/vision-of-the-three-eyed-raven</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/jaime-lannister</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/jaime-lannister</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/jaime-lannister</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/jaime-lannister</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/a-secret-heir</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/a-secret-heir</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/a-secret-heir</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/a-secret-heir</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/hire-a-master-of-whispers</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/hire-a-master-of-whispers</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/hire-a-master-of-whispers</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/hire-a-master-of-whispers</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/maester-training</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/maester-training</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/maester-training</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/maester-training</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/master-of-the-seas</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/master-of-the-seas</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/master-of-the-seas</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/master-of-the-seas</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/a-debt-to-the-iron-bank</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/a-debt-to-the-iron-bank</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/a-debt-to-the-iron-bank</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/a-debt-to-the-iron-bank</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/euron-greyjoy</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/euron-greyjoy</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/euron-greyjoy</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/euron-greyjoy</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/robert-baratheon</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/robert-baratheon</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/robert-baratheon</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/robert-baratheon</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/hire-sellswords</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/hire-sellswords</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/hire-sellswords</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/hire-sellswords</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/hoster-tully</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/hoster-tully</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/hoster-tully</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/hoster-tully</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/eddard-stark</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/eddard-stark</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/eddard-stark</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/eddard-stark</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/tribute-to-the-lord-of-light</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/tribute-to-the-lord-of-light</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/tribute-to-the-lord-of-light</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/tribute-to-the-lord-of-light</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/dealmaking</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/dealmaking</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/dealmaking</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/dealmaking</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/en/uniting-the-bloodlines</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/en/uniting-the-bloodlines</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://andriiboiko.github.io/tegot/ua/uniting-the-bloodlines</loc>
-    <lastmod>2025-08-29T15:42:55.811Z</lastmod>
+    <loc>https://andriiboiko.github.io/te-got/ua/uniting-the-bloodlines</loc>
+    <lastmod>2025-08-29T16:10:19.866Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
