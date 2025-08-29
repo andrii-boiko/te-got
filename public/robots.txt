@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: http://localhost:3000/sitemap.xml
+
+# For production, update this to your domain:
+# Sitemap: https://your-domain.com/sitemap.xml
