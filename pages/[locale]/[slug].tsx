@@ -30,7 +30,7 @@ export default function CardDetail({ card, locale }: CardDetailProps) {
   const otherLang = locale === 'ua' ? 'en' : 'ua';
   const otherLangCode = locale === 'ua' ? 'en' : 'uk';
 
-  const baseUrl = process.env.NODE_ENV === 'production' ? 'https://your-domain.com' : 'http://localhost:3000';
+  const baseUrl = process.env.NODE_ENV === 'production' ? 'https://andrii-boiko.github.io/te-got' : 'http://localhost:3000';
   const canonicalUrl = `${baseUrl}/${locale}/${card.slug}`;
   const alternateUrl = `${baseUrl}/${otherLang}/${card.slug}`;
 
@@ -95,7 +95,7 @@ export default function CardDetail({ card, locale }: CardDetailProps) {
           <div className="card-detail-layout">
             <div className="card-detail-image-container">
               <Image
-                src={card.image}
+                src={baseUrl + card.image}
                 alt={card.name[currentLang]}
                 width={400}
                 height={560}

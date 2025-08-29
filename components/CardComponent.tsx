@@ -11,12 +11,13 @@ interface CardComponentProps {
 export default function CardComponent({ card, locale }: CardComponentProps) {
   const { language } = useLanguage();
   const currentLang = locale === 'ua' ? 'uk' : 'en';
-
+  const baseUrl = process.env.NODE_ENV === 'production' ? 'https://andrii-boiko.github.io/te-got' : 'http://localhost:3000';
+  
   return (
     <div className="card">
       <Link href={`/${locale}/${card.slug}`}>
         <Image
-          src={card.image}
+          src={baseUrl + card.image}
           alt={card.name[currentLang]}
           width={300}
           height={420}
