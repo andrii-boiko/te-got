@@ -56,8 +56,8 @@ export const cards: Card[] = [
       uk: "Несправедливий суд"
     },
     event: {
-      en: "The player who controls King's Landing MUST lose 4 gold. If that player does not have 4 gold, their army there must retreat. (Cannot be used in battle.)",
-      uk: "Гравець який контролює Королівську гавань повинен втратити 4 монети. Якщо цей гравець не має 4 монет, його армія повинна відступити (відступ не може повинен почати нову битву)"
+      en: "The player who controls King's Landing MUST lose 4 gold. If that player does not have 4 gold, their army there must retreat. (Cannot result in battle.)",
+      uk: "Гравець який контролює Королівську гавань повинен втратити 4 монети. Якщо цей гравець не має 4 монет, його армія повинна відступити (відступ не може почати нову битву)"
     },
     image: "/images/plot/plot_03.png"
   },
